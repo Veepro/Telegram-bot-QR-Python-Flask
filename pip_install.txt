@@ -1,0 +1,6 @@
+Need to:
+	pip install Flask
+	pip install flask_sslify
+	pip install requests
+	pip install Pillow (Using Pillow library for qrcode library)
+	pip install qrcode
